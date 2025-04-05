@@ -13,12 +13,7 @@
 
 <hr>
 
-<p><strong>Sobre mim</strong></p>
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Sou Mizael Carlos, formado em Ciencia da Computação e especialista em Data Science<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Atualmente sou developer backend e professor da educação profissional nos cursos técnico em informática e informática para internet.<br />
-
-## Tecnologias que uso 🖥️🛠️:
+## Minhas Skills 🛠️🖥️:
 
 <div style="display: inline_block"><br>
    <img src="https://skillicons.dev/icons?i=vscode,php,laravel,html,css,js,jquery,bootstrap,git,github,bitbucket,gitlab,aws,python,mysql,postgresql&theme=dark" />
