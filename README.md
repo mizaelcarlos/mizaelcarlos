@@ -21,6 +21,6 @@
 ## Tecnologias que uso 🖥️🛠️:
 
 <div style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=vscode,php,laravel,html,css,js,jquery,bootstrap,git,github,bitbucket,gitlab,gitflow,aws,python,mysql,postgresql,sql server&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=vscode,php,laravel,html,css,js,jquery,bootstrap,git,github,bitbucket,gitlab,gitflow,aws,python,mysql,postgresql&theme=dark" />
  </div>
 <hr>
