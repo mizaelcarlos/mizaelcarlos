@@ -1,8 +1,5 @@
 ### Desenvolvedor Full Stack | Backend | PHP | Laravel | Java Script
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mizael-carlos-00800a17a/)
-
-
  <div align="center">  
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mizaelcarlos&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
